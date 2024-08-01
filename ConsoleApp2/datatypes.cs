@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2
 {
-internal class Program
+internal class datatypes
 {
 static void Main(string[] args)
 {
